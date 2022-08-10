@@ -1,0 +1,6 @@
+export const COLORS={
+    WHITE:"#FFFFFF",
+    WHATSAPP_COLOR:'#075E54',
+    LIGHT_GREY:'#D3D3D3'
+
+}
